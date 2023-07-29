@@ -2,7 +2,10 @@
 
 PHP OOP; \
 #Arch : https://archlinux.org/download/ \
-Virtual box: https://download.virtualbox.org/virtualbox/7.0.10/VirtualBox-7.0.10-158379-Win.exe 
+Virtual box: https://download.virtualbox.org/virtualbox/7.0.10/VirtualBox-7.0.10-158379-Win.exe \
+BalenaEtcher: \
+  Linux: https://github.com/balena-io/etcher/releases/download/v1.18.11/balenaEtcher-1.18.11-x64.AppImage \
+  Windows: https://github.com/balena-io/etcher/releases/download/v1.18.11/balenaEtcher-Portable-1.18.11.exe
 
 Utawarerunomono \
 Jujutsu kaisen: all \
