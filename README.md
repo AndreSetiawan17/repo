@@ -17,3 +17,8 @@ Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Mo
 Oresuki: https://mega.nz/file/izJjwCSQ#Opdl0hAy_IJlvwYiRiPvY36vNkIyQ24NcutXu8HTs8w \
 Maou-sama, Retry!: https://mega.nz/file/mRMiSaAb#IJwTTGCpukR7ab9UrA8GOYXBa9ZgwNoBbMEl27axy6U \
 Seirei Gensouki: https://mega.nz/file/amg2RBbB#uU0YMrEeH8DgO8N3SZNxxRsvkcvkt6B2MVLmX9Mj66M \
+
+
+
+
+Loc: -3.281381845474243,114.59288787841797 \
