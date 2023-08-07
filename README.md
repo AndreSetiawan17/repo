@@ -1,5 +1,7 @@
 # List
 
+Star -> https://youtu.be/lqYSCSgFefM
+
 Inkscape: https://inkscape.org/release/inkscape-1.3/gnulinux/appimage/dl/
 
 Kakkou no Iinazuke: https://mega.nz/file/cXtkWbxQ#-zjvspgaY-Vr2yTkpZT-v0xKhUwvDkhxwxjzNkMqZnc \
