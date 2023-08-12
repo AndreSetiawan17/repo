@@ -17,6 +17,6 @@ Danmachi:
 Loc: -3.281381845474243,114.59288787841797 
 
 
-Prime OS: \\\\\\
+Prime OS: \
 Standart: https://sourceforge.net/projects/primeos/files/Standard/primeOS-standard_0.6.1-20211206.iso/download \
 Mainline: https://sourceforge.net/projects/primeos/files/Mainline/primeOS-mainline_0.6.1-20211206.iso/download
