@@ -1,6 +1,6 @@
 # List
 
-Star -> https://youtu.be/lqYSCSgFefM
+Star -> https://youtu.be/lqYSCSgFefM \
 Postman: https://dl.pstmn.io/download/latest/linux_64
 
 Oresuki: https://mega.nz/file/izJjwCSQ#Opdl0hAy_IJlvwYiRiPvY36vNkIyQ24NcutXu8HTs8w \
