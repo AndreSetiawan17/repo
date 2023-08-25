@@ -9,6 +9,8 @@ Ore dake Haireru Kakushi Dungeon: https://mega.nz/file/c9gC3KTT#_1qkjkVXmuzpBzhG
 
 Tensei Oujo to Tensai....: https://myanimelist.net/anime/52736/Tensei_Oujo_to_Tensai_Reijou_no_Mahou_Kakumei
 
+Gotoubun no Hanayome
+
 Loc: -3.281381845474243,114.59288787841797 
 
 
