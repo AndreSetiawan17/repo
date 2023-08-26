@@ -3,6 +3,10 @@
 Star -> https://youtu.be/lqYSCSgFefM \
 Postman: https://dl.pstmn.io/download/latest/linux_64
 
+Kali linux: \
+Live \
+Images 
+
 Oresuki: https://mega.nz/file/izJjwCSQ#Opdl0hAy_IJlvwYiRiPvY36vNkIyQ24NcutXu8HTs8w \
 Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita: https://mega.nz/file/N2l0wKCC#fyhy2q29X8oJtu6z6FgIN-SfnW1XzAGrH0rY1KYgpo0 \
 Ore dake Haireru Kakushi Dungeon: https://mega.nz/file/c9gC3KTT#_1qkjkVXmuzpBzhGiq6EYelhlWmboo_NzIA2ogCWK38
