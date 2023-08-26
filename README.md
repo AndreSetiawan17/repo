@@ -13,6 +13,8 @@ Server: \
 Ubuntu: https://ubuntu.com/download/server \
 Debian
 
+Chrome & Chromium
+
 Torrent?
 
 
