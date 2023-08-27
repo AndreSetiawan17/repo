@@ -23,7 +23,8 @@ Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita: https:
 Ore dake Haireru Kakushi Dungeon: https://mega.nz/file/c9gC3KTT#_1qkjkVXmuzpBzhGiq6EYelhlWmboo_NzIA2ogCWK38 \
 Tensei Oujo to Tensai....: https://myanimelist.net/anime/52736/Tensei_Oujo_to_Tensai_Reijou_no_Mahou_Kakumei \
 Gotoubun no Hanayome \
-Fate Series
+Fate Series \
+Amagi Brilliant Park
 
 Loc: -3.281381845474243,114.59288787841797 
 
