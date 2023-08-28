@@ -5,17 +5,19 @@ Postman: https://dl.pstmn.io/download/latest/linux_64
 
 Kali linux: \
 Live \
-Images 
-
+Images \
 Arch Linux
 
-Server: \
-Ubuntu: https://ubuntu.com/download/server \
+
+Ubuntu: \
+Desktop: https://ubuntu.com/download/desktop/thank-you?version=23.04&architecture=amd64 \
+Server: https://ubuntu.com/download/server
+
 Debian
 
-Chrome & Chromium
 
-Torrent?
+
+
 
 
 Oresuki: https://mega.nz/file/izJjwCSQ#Opdl0hAy_IJlvwYiRiPvY36vNkIyQ24NcutXu8HTs8w \
@@ -25,6 +27,10 @@ Tensei Oujo to Tensai....: https://myanimelist.net/anime/52736/Tensei_Oujo_to_Te
 Gotoubun no Hanayome \
 Fate Series \
 Amagi Brilliant Park
+
+
+
+
 
 Loc: -3.281381845474243,114.59288787841797 
 
