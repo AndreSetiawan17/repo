@@ -1,8 +1,5 @@
 # List
 
-Star -> https://youtu.be/lqYSCSgFefM \
-Postman: https://dl.pstmn.io/download/latest/linux_64
-
 Fedora: \
 Torrent: https://torrent.fedoraproject.org/ \
 i3: https://download.fedoraproject.org/pub/fedora/linux/releases/38/Spins/x86_64/iso/Fedora-i3-Live-x86_64-38-1.6.iso \
