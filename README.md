@@ -6,7 +6,7 @@ i3: https://download.fedoraproject.org/pub/fedora/linux/releases/38/Spins/x86_64
 Silver Blue: https://download.fedoraproject.org/pub/fedora/linux/releases/38/Silverblue/x86_64/iso/Fedora-Silverblue-ostree-x86_64-38-1.6.iso \
 
 Ubuntu Desktop: https://ubuntu.com/download/desktop/thank-you?version=23.04&architecture=amd64 \
-
+Prime OS: https://sourceforge.net/projects/primeos/files/64-bit/PrimeOS-2.1.3-64-bit-20220719-BETA.iso/download
 
 
 
