@@ -16,7 +16,9 @@ Ore dake Haireru Kakushi Dungeon: https://mega.nz/file/c9gC3KTT#_1qkjkVXmuzpBzhG
 Tensei Oujo to Tensai....: https://myanimelist.net/anime/52736/Tensei_Oujo_to_Tensai_Reijou_no_Mahou_Kakumei \
 Gotoubun no Hanayome \
 Fate Series \
-Amagi Brilliant Park
+Amagi Brilliant Park \
+Danganronpa
+
 
 
 Utawarerumono: \
