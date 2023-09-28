@@ -1,8 +1,9 @@
 # List
 CrystalDiskMark
 
-Film: \
-Who Am I: https://www.imdb.com/title/tt3042408/
+Waydroid: \
+Mega: https://mega.nz/folder/SoJEXCqT#lRB8Hr_Ofe_Tj135Larb8g \
+Sourceforge: https://sourceforge.net/projects/blissos-dev/files/waydroid/linux/beta/ubuntu/jammy/01-30-2023-plasma/
 
 
 Oresuki: https://mega.nz/file/izJjwCSQ#Opdl0hAy_IJlvwYiRiPvY36vNkIyQ24NcutXu8HTs8w \
