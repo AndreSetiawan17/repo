@@ -1,6 +1,7 @@
 # List
 
 Waydroid: \
+Doc: https://docs.waydro.id/usage/install-on-desktops \
 Mega: https://mega.nz/folder/SoJEXCqT#lRB8Hr_Ofe_Tj135Larb8g \
 Sourceforge: https://sourceforge.net/projects/blissos-dev/files/waydroid/linux/beta/ubuntu/jammy/01-30-2023-plasma/
 
