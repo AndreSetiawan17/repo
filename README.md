@@ -25,5 +25,3 @@ Danganronpa
 Loc: -3.281381845474243,114.59288787841797 
 
 https://onnocenter.or.id/pustaka/datawiki/
-
-aptitude
