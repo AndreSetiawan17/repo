@@ -1,5 +1,7 @@
 # List
 
+https://labs.fedoraproject.org/python-classroom/
+
 Oresuki: https://mega.nz/file/izJjwCSQ#Opdl0hAy_IJlvwYiRiPvY36vNkIyQ24NcutXu8HTs8w \
 Ore dake Haireru Kakushi Dungeon: https://mega.nz/file/c9gC3KTT#_1qkjkVXmuzpBzhGiq6EYelhlWmboo_NzIA2ogCWK38 \
 Gotoubun no Hanayome \
