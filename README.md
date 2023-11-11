@@ -13,3 +13,4 @@ Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken
 Loc: -3.281381845474243,114.59288787841797 
 
 https://onnocenter.or.id/pustaka/datawiki/
+http://dumps.wikimedia.org/idwiki/latest/idwiki-latest-pages-articles.xml.bz2
