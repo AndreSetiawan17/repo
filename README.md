@@ -1,6 +1,6 @@
 # List
 
-https://labs.fedoraproject.org/python-classroom/
+https://labs.fedoraproject.org/python-classroom/ \
 http://dumps.wikimedia.org/idwiki/latest/idwiki-latest-pages-articles.xml.bz2
 
 Oresuki: https://mega.nz/file/izJjwCSQ#Opdl0hAy_IJlvwYiRiPvY36vNkIyQ24NcutXu8HTs8w \
