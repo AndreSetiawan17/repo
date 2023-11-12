@@ -1,5 +1,9 @@
 # List
 
+FreeBSD: \
+  ISO: https://cdn.openbsd.org/pub/OpenBSD/7.4/amd64/install74.iso \
+  IMG: https://cdn.openbsd.org/pub/OpenBSD/7.4/amd64/install74.img
+
 https://labs.fedoraproject.org/python-classroom/ \
 http://dumps.wikimedia.org/idwiki/latest/idwiki-latest-pages-articles.xml.bz2
 
