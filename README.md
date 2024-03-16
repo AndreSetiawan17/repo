@@ -1,3 +1,7 @@
+# Anime
+Netoge no Yome wa Onnanoko ja Nai to Omotta? \
+https://drive.usercontent.google.com/download?id=1X7q1Czw-XOVmyIeM62XhB6oZvMeJpUki&export=download&authuser=0
+
 # L
 
 https://labs.fedoraproject.org/python-classroom/ \
